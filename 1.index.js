@@ -1,6 +1,6 @@
-const app = require("./app.js");
+const app = require("./3.app.js");
 
-const king = require("./second");
+const king = require("./2.second");
 
 console.log("Hello world. My name is DS Rathore", king);
 
